@@ -1,3 +1,3 @@
 # djackets_vue
 
-This repository is a part of a YouTube tutorial.
+This repository is front end code of e-commerce website
